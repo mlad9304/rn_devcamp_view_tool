@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RnDevcampViewTool::Renderer.copyright "John Doe", "All rights reserved"
+```
 
 ## Development
 
